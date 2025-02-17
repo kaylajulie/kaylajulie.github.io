@@ -1,1 +1,1 @@
-I have been asked to create a new git repository and initialise it. Create a branch called feature/student-details and then add 3 files to this branch that contain different information. 
+I have been asked to create a new git repository and initialise it. add 3 files to this branch that contain different information. I created a new branch 
